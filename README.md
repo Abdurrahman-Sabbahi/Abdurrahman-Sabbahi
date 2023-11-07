@@ -1,4 +1,4 @@
-- 👋 Hi I'm Abdurrahman Sabbahi, Mechatronics Engineer with background in programming.
+- 👋 Hi, I'm a Mechatronics Engineer with background in programming.
 - 💞️ I’m looking to collaborate on ML/DL projects
 - 📫 You can reach me via email: a.sabbahi90@gmail.com
 
