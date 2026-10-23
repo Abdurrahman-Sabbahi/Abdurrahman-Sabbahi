@@ -101,7 +101,7 @@ Master of Science in Analytics (OMSA) — *In Progress*
 
 I'm always open to connecting with engineers, researchers, and professionals working on interesting challenges in AI, data science, and emerging technologies.
 
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile/)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/abdurrahman-sabbahi-8359a0159/)
 - 📫 You can reach me via email: a.sabbahi90@gmail.com
 
 <!---
