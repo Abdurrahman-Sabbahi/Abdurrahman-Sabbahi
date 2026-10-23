@@ -15,8 +15,8 @@ I enjoy solving complex technical problems, exploring emerging technologies, and
 ## 🛠️ Technical Expertise
 
 **Programming & Data Analysis**
-- Python, SQL
-- Pandas, NumPy, Scikit-learn
+- Python, SQL, R, C and C++
+- Pandas, NumPy, Scipy, Scikit-learn, Tensorflow, langchain, Langgraph
 - Data Analysis, Statistical Modeling, Predictive Analytics
 
 **Artificial Intelligence & Machine Learning**
@@ -35,6 +35,7 @@ I enjoy solving complex technical problems, exploring emerging technologies, and
 - IBM watsonx.ai & watsonx Orchestrate
 - AI Agent Development & Orchestration
 - Model Context Protocol (MCP)
+- Watsonx.governance
 - REST APIs & Enterprise Integrations
 - Git & GitHub
 
@@ -45,12 +46,12 @@ I enjoy solving complex technical problems, exploring emerging technologies, and
 ### 🤖 Snowflake AI Analyst
 **Natural Language Analytics | LLMs | SQL | Agentic AI**
 
-An AI-powered analytics solution designed to enable natural-language interaction with structured enterprise data.
+An AI-powered analytics solution designed to enable natural-language interaction with structured and unstructured enterprise data.
 
 **Key capabilities:**
 - Translate natural-language questions into analytical queries
 - Integrate AI agents with Snowflake data sources
-- Retrieve and analyze structured business data
+- Retrieve and analyze both structured  and unstructured business data
 - Support conversational, data-driven insights
 
 ### 🧠 Building Agentic AI Systems
@@ -72,6 +73,7 @@ A collection of applied machine learning projects focused on solving real-world 
 **Areas of focus:**
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
+- Data mining
 - Classification and Predictive Modeling
 - Model Training, Validation, and Evaluation
 
